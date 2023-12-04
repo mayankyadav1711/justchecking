@@ -1,0 +1,10 @@
+_iub.csEnabled = true;
+_iub.csPurposes = [];
+_iub.csFeatures = {
+  geolocation_setting: true,
+  cookie_solution_white_labeling: 0,
+  rejection_recovery: false,
+  full_customization: true,
+  multiple_languages: "fr"
+};
+_iub.csT = null;
